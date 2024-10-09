@@ -87,12 +87,10 @@ input , textarea{
 }
 
 .fv-img{
-  height: 420px;
-}
-img {
   object-fit: cover;
   max-width: 100%;
   height: auto;
+  height: 420px;
 }
 
 /* about */
